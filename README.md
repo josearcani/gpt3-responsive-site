@@ -1,5 +1,11 @@
-# GPT3 responsive site
+# GPT3
 
+Install all dependencies
+```
+npm install
+```
 
-
-<!-- https://www.youtube.com/watch?v=LMagNcngvcU -->
+Start the project
+```
+npm start
+```
